@@ -1,6 +1,6 @@
 # Summary
 
-* [简介](README.md)
+* [TypeScript速成教程（2小时速成）](README.md)
 * [原项目简介](README-ORIGIN.md)
 * [1、类型](类型/index.md)
   * [1.1 为什么需要类型](类型/为什么需要类型.md)
