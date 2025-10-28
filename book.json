@@ -1,0 +1,18 @@
+{
+  "plugins": [
+    "github",
+    "-sharing",
+    "collapsible-menu"
+  ],
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/HowieWH/typescript-tutorial-book",
+      "position": "right",
+      "icon": "fa-github"
+    },
+    "collapsible-menu": {
+      "defaultState": "collapsed",
+      "depth": 1
+    }
+  }
+}
